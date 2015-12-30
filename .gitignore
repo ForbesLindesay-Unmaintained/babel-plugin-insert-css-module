@@ -1,0 +1,10 @@
+.DS_Store
+npm-debug.log
+node_modules
+/coverage
+/lib
+
+output.js
+output.extracted.js
+output.optimised.js
+output.optimised.extracted.js
