@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-insert-css-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for transpiling css templates to using postcss-modules",
   "main": "lib/index.js",
   "files": [
