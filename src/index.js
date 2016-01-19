@@ -95,7 +95,7 @@ export default function ({types: t}) {
   }
   function visitVariableDeclaration(path, opts, filename) {
     if (
-      t.isVariableDeclaration(path.node, {kind: 'const'}) &&
+      t.isVariableDeclaration(path.node) &&
       path.node.declarations.length === 1 &&
       path.node.declarations[0].init
     ) {
