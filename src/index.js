@@ -198,6 +198,9 @@ export default function ({types: t}) {
 
   return {
     visitor: {
+      // NoOps to ensure correct ordering by babel
+      TaggedTemplateExpression() {},
+      TemplateLiteral() {},
       Program: {
         enter(path) {
           if (this.opts.extractCSS) {
