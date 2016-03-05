@@ -13,7 +13,7 @@ function checkExpected(actual, filename) {
     expected = actual;
     writeFileSync(filename, expected);
   }
-  assert.equal(actual, expected);
+  assert.equal(actual.trim().replace(/\n+/g, '\n'), expected.trim().replace(/\n+/g, '\n'));
 }
 
 // cssInJS, {vendorPrefixes: true, bundleFile: 'test/bundle.css', compressClassNames: true}

@@ -3,7 +3,7 @@ import {resolve} from 'path';
 import stringHash from 'string-hash';
 import postcss from 'postcss';
 import modules from 'postcss-modules';
-import cssnanoCore from 'cssnano/lib/core';
+import cssnanoCore from 'cssnano/dist/lib/core';
 import discardComments from 'postcss-discard-comments';
 import minifyGradients from 'postcss-minify-gradients';
 import reduceTransforms from 'postcss-reduce-transforms';
