@@ -36,7 +36,7 @@
     "string-hash": "^1.1.0"
   },
   "devDependencies": {
-    "babel-cli": "^6.3.17",
+    "babel-cli": "^6.6.5",
     "babel-core": "^6.3.26",
     "babel-preset-forbeslindesay": "^1.0.0",
     "eslint": "^1.10.3",
