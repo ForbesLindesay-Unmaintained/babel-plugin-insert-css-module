@@ -13,7 +13,7 @@
     "autoprefixer": "^6.2.3",
     "cssnano": "3.5.2",
     "postcss": "^5.0.13",
-    "postcss-calc": "^5.0.0",
+    "postcss-calc": "^5.2.1",
     "postcss-colormin": "^2.1.8",
     "postcss-convert-values": "^2.3.4",
     "postcss-discard-comments": "^2.0.3",
