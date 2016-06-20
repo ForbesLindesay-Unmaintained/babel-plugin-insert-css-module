@@ -40,7 +40,7 @@
     "babel-core": "^6.3.26",
     "babel-preset-forbeslindesay": "^1.0.0",
     "eslint": "^1.10.3",
-    "eslint-config-forbeslindesay": "^1.0.0",
+    "eslint-config-forbeslindesay": "^2.0.0",
     "testit": "^2.0.2"
   },
   "scripts": {
