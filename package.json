@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "autoprefixer": "^6.2.3",
-    "cssnano": "3.5.2",
+    "cssnano": "3.7.3",
     "postcss": "^5.0.13",
     "postcss-calc": "^5.0.0",
     "postcss-colormin": "^2.1.8",
