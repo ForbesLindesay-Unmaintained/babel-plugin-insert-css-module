@@ -41,7 +41,7 @@
     "babel-preset-forbeslindesay": "^1.0.0",
     "eslint": "^1.10.3",
     "eslint-config-forbeslindesay": "^1.0.0",
-    "testit": "^2.0.2"
+    "testit": "^2.1.0"
   },
   "scripts": {
     "prepublish": "npm run build",
