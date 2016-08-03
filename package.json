@@ -10,7 +10,7 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "autoprefixer": "^6.2.3",
+    "autoprefixer": "^6.4.0",
     "cssnano": "3.5.2",
     "postcss": "^5.0.13",
     "postcss-calc": "^5.0.0",
