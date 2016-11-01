@@ -31,7 +31,7 @@
     "postcss-normalize-charset": "^1.1.0",
     "postcss-normalize-url": "^3.0.4",
     "postcss-ordered-values": "^2.0.2",
-    "postcss-reduce-transforms": "^1.0.3",
+    "postcss-reduce-transforms": "^1.0.4",
     "postcss-unique-selectors": "^2.0.1",
     "string-hash": "^1.1.0"
   },
