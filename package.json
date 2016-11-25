@@ -15,7 +15,7 @@
     "postcss": "^5.0.13",
     "postcss-calc": "^5.0.0",
     "postcss-colormin": "^2.1.8",
-    "postcss-convert-values": "^2.3.4",
+    "postcss-convert-values": "^2.5.0",
     "postcss-discard-comments": "^2.0.3",
     "postcss-discard-duplicates": "^2.0.0",
     "postcss-discard-empty": "^2.0.0",
