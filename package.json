@@ -38,7 +38,7 @@
   "devDependencies": {
     "babel-cli": "^6.3.17",
     "babel-core": "^6.3.26",
-    "babel-preset-forbeslindesay": "^1.0.0",
+    "babel-preset-forbeslindesay": "^2.0.8",
     "eslint": "^1.10.3",
     "eslint-config-forbeslindesay": "^1.0.0",
     "testit": "^2.0.2"
