@@ -29,7 +29,7 @@
     "postcss-minify-selectors": "^2.0.1",
     "postcss-modules": "^0.1.3",
     "postcss-normalize-charset": "^1.1.0",
-    "postcss-normalize-url": "^3.0.4",
+    "postcss-normalize-url": "^3.0.8",
     "postcss-ordered-values": "^2.0.2",
     "postcss-reduce-transforms": "^1.0.3",
     "postcss-unique-selectors": "^2.0.1",
