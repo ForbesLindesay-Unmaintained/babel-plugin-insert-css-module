@@ -33,7 +33,7 @@
     "postcss-ordered-values": "^2.0.2",
     "postcss-reduce-transforms": "^1.0.3",
     "postcss-unique-selectors": "^2.0.1",
-    "string-hash": "^1.1.0"
+    "string-hash": "^1.1.2"
   },
   "devDependencies": {
     "babel-cli": "^6.3.17",
