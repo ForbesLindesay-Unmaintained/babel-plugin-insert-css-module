@@ -1,5 +1,7 @@
 # babel-plugin-insert-css-module
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/babel-plugin-insert-css-module.svg)](https://greenkeeper.io/)
+
 Inspired by https://github.com/martinandert/babel-plugin-css-in-js
 
 ## Usage
